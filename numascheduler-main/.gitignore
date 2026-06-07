@@ -1,0 +1,8 @@
+# Ignore raw DB files
+backend/numa_scheduler.db
+backend/numa_scheduler.db-journal
+# Node modules
+frontend/node_modules/
+# Python caches
+__pycache__/
+*.pyc
